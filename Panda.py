@@ -1,1 +1,0 @@
-panda is a very cute and gentle animal. It is known for its distinctive black and white fur and its love for bamboo. Pandas are native to China and are considered a national treasure. They are also an endangered species, with conservation efforts in place to protect their habitats and increase their population.    
