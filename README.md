@@ -11,11 +11,11 @@ We are simulating a black body radiation transferring through a uniform medium
 
 
 ## week-1##
-Gr leader:
+Gr leader: Shreeganesh
 contributions:
 
 ## week-2##
-Gr leader:
-contributions:
-Future work:
+Gr leader: Usha
+Contributions: (Sarfaraz & Asha: Theory of N2-N2 absorption and experimental data collection of all absorptions in 25nm-200nm- UV region)
+Future work: implementation of these absorption spectra of N2-N2 molecules in the black-body radiation spectrum in the UV region, 
 Explanation of work done:
