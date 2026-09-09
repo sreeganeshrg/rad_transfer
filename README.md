@@ -46,20 +46,7 @@ E_f-E_i=\frac{hc}{\lambda_{\mathrm{abs}}}.
 $$
 
 
-1.1 Photon Absorption
 
-Absorption of a photon promotes the molecule from an initial electronic
-state i to an excited state f according to
-
-N2(X 1Σg+) + hν → N2*
-
-The absorbed photon energy is
-
-Eγ = hν = hc/λ
-
-Energy conservation requires
-
-Ef − Ei = hc/λabs
 Unlike a simple atomic spectrum, **molecular nitrogen produces bands** because a molecule has several types of energy:
 
 $$
@@ -81,7 +68,7 @@ Thus:
 - **Electronic transition** → produces a band system.
 - **Vibrational transition** → divides an electronic band into vibrational bands.
 - **Rotational transition** → produces many closely spaced rotational lines within each vibrational band.
-## 1.2 Photoabsorption Cross Section
+##  Photoabsorption Cross Section
 
 The fundamental quantity used in the simulation is the photoabsorption cross section,
 
@@ -118,3 +105,37 @@ I_\lambda = I_{\lambda,0}e^{-\tau_\lambda}
 $$
 
 This relation provides the direct connection between the experimental N₂ cross-section data and the radiation-transfer simulation.
+## Experimental Dataset
+
+The experimental data used in this work are the N₂ photoabsorption cross sections reported by Souza and Srivastava (1994). The dataset corresponds to nitrogen at
+
+$$
+T = 298\ \mathrm{K}
+$$
+
+and covers the wavelength range
+
+$$
+25\ \mathrm{nm} \leq \lambda \leq 226\ \mathrm{nm}.
+$$
+
+The spectrum was obtained from an electron-energy-loss spectrum (EELS) measured using a crossed electron-beam–molecular-beam geometry. The EELS spectrum was converted into a photoabsorption spectrum, and the relative absorption cross sections were normalized to the N₂ absorption cross section at 58.6 nm.
+
+The numerical values used in this work are obtained from the digitized data of Fig. 5 of Souza and Srivastava (1994). The resulting quantity is the wavelength-dependent molecular photoabsorption cross section,
+
+$$
+\sigma_{\mathrm{abs}}(\lambda)
+\qquad
+[\mathrm{cm^2\,molecule^{-1}}].
+$$
+## Photoabsorption Cross-Section Spectrum
+
+<p align="center">
+  <img src="figures/n2_cross_section.png" alt="Photoabsorption cross section of molecular nitrogen" width="750">
+</p>
+
+<p align="center">
+  <b>Figure 1:</b> Photoabsorption cross section of molecular nitrogen, N₂, at 298 K over the wavelength range 25–226 nm. The spectrum shows a strong increase in absorption in the vacuum-ultraviolet region, with pronounced absorption features near 80–100 nm.
+</p>
+
+The wavelength dependence of the measured absorption cross section is shown in Fig. 1. The spectrum exhibits a strongly wavelength-dependent absorption probability, with the largest cross sections occurring in the approximately 80–100 nm region. The variation of the absorption cross section, $\sigma_{\mathrm{abs}}$, reflects the energy dependence of the electronic excitation probability of N₂.
