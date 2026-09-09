@@ -23,7 +23,7 @@ Explanation of work done:
 
 ## Basic Theory of N₂ Absorption Spectrum
 Molecular nitrogen, **N₂**, is a homonuclear diatomic molecule. When electromagnetic radiation passes through N₂ gas, certain wavelengths are absorbed because the photon energy matches the energy difference between allowed molecular energy states. The resulting variation of absorption with wavelength is called the **N₂ absorption spectrum**.
-## 1.1 Photon Absorption
+##  Photon Absorption
 
 Absorption of a photon promotes the molecule from an initial electronic state $i$ to an excited state $f$ according to
 
@@ -55,7 +55,7 @@ $$
 
 So an N₂ spectrum can contain many closely spaced lines grouped into **spectral bands**.
 
-### 4. Electronic, vibrational and rotational transitions
+###  Electronic, vibrational and rotational transitions
 
 The hierarchy is approximately:
 
@@ -130,7 +130,7 @@ $$
 $$
 ## Photoabsorption Cross-Section Spectrum
 
-## 1.4 Photoabsorption Cross-Section Spectrum
+##  Photoabsorption Cross-Section Spectrum
 
 <p align="center">
   <img src="Lab%202/Initial%20phase.png" width="850">
@@ -143,3 +143,22 @@ The wavelength dependence of the measured absorption cross section is shown in F
 </p>
 
 The wavelength dependence of the measured absorption cross section is shown in Fig. 1. The spectrum exhibits a strongly wavelength-dependent absorption probability, with the largest cross sections occurring in the approximately 80–100 nm region. The variation of the absorption cross section, $\sigma_{\mathrm{abs}}$, reflects the energy dependence of the electronic excitation probability of N₂.
+
+##  Region-by-region physical interpretation
+
+| Wavelength | Photon energy | Physical interpretation | Transition picture |
+|---|---|---|---|
+| 25–~75 nm | 49.6–16.5 eV | High-energy electronic absorption; continuum/photoionization becomes important as photon energy approaches and exceeds the ionization threshold. | Electronic excitation and ionization-related absorption; not a rotational/vibrational spectrum. |
+| ~75–80 nm | 16.5–15.5 eV | Near the N₂ first-ionization threshold (≈15.6 eV, ≈79.5 nm). | Bound electronic absorption approaches the ionization continuum; photoionization can begin above threshold. |
+| ~80–100 nm | 15.5–12.4 eV | Strongest structured absorption region in the supplied graph. | Ground-state X¹Σg⁺ → singlet ungerade electronic states, including b¹Πu, b′¹Σu⁺ and Rydberg-series states such as cₙ¹Πu / cₙ′¹Σu⁺; vibronic structure is superposed. |
+| ~100–120 nm | 12.4–10.3 eV | Cross section drops strongly, but electronic/vibronic absorption remains possible. | Weak/structured electronic systems; detailed assignment requires higher-resolution data. |
+| ~120–180 nm | 10.3–6.9 eV | Weak long-wavelength absorption systems. | Includes the LBH system: X¹Σg⁺ → a¹Πg in absorption; reverse a¹Πg → X¹Σg⁺ in emission. |
+| ~180–226 nm | 6.9–5.5 eV | Very weak absorption in the supplied dataset. | Weak electronic/vibronic transitions; do not assign every small feature to a named transition without high-resolution data. |
+
+The wavelength-to-energy relation used above is
+
+$$
+E(\mathrm{eV}) \approx \frac{1239.84}{\lambda(\mathrm{nm})}
+$$
+
+This makes it clear why the 25–226 nm dataset probes electronic rather than rotational or ordinary vibrational excitation.
