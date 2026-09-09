@@ -45,13 +45,7 @@ $$
 E_f-E_i=\frac{hc}{\lambda_{\mathrm{abs}}}.
 $$
 
-Therefore, the absorption wavelength is
 
-$$
-\lambda_{\mathrm{abs}}
-=
-\frac{hc}{E_f-E_i}.
-$$
 1.1 Photon Absorption
 
 Absorption of a photon promotes the molecule from an initial electronic
@@ -87,3 +81,116 @@ Thus:
 - **Electronic transition** → produces a band system.
 - **Vibrational transition** → divides an electronic band into vibrational bands.
 - **Rotational transition** → produces many closely spaced rotational lines within each vibrational band.
+- ## 1.2 Photoabsorption Cross Section
+
+The fundamental quantity used in the simulation is the photoabsorption cross section,
+
+$$
+\sigma_{\mathrm{abs}}(\lambda)
+$$
+
+with units of $\mathrm{cm^2\,molecule^{-1}}$.
+
+It represents the wavelength-dependent probability of interaction between an incident
+photon and an $\mathrm{N_2}$ molecule. A large $\sigma_{\mathrm{abs}}$ therefore corresponds
+to strong absorption.
+
+For a homogeneous gas of number density $n$, the attenuation of radiation is described by
+
+$$
+\frac{dI_\lambda}{dx}
+=
+-n\sigma_{\mathrm{abs}}(\lambda)I_\lambda .
+$$
+
+Integration gives the Beer--Lambert relation,
+
+$$
+I_\lambda(L)
+=
+I_\lambda(0)
+\exp\left[-n\sigma_{\mathrm{abs}}(\lambda)L\right].
+$$
+
+The optical depth is therefore
+
+$$
+\tau_\lambda
+=
+nL\sigma_{\mathrm{abs}}(\lambda),
+$$
+
+and
+
+$$
+I_\lambda
+=
+I_{\lambda,0}e^{-\tau_\lambda}.
+$$
+
+This relation provides the direct connection between the experimental $\mathrm{N_2}$
+cross-section data and the radiation-transfer simulation.
+## 1.2 Photoabsorption Cross Section
+
+The fundamental quantity used in the simulation is the photoabsorption cross section,
+
+$$
+\boxed{\sigma_{\mathrm{abs}}(\lambda)}
+\tag{7}
+$$
+
+with units of $\mathrm{cm^2\,molecule^{-1}}$.
+
+It represents the wavelength-dependent probability of interaction between an incident
+photon and an $\mathrm{N_2}$ molecule. A large $\sigma_{\mathrm{abs}}$ therefore corresponds
+to strong absorption.
+
+For a homogeneous gas of number density $n$, the attenuation of radiation is described by
+
+$$
+\frac{dI_\lambda}{dx}
+=
+-n\sigma_{\mathrm{abs}}(\lambda)I_\lambda .
+\tag{8}
+$$
+
+Integration gives the Beer--Lambert relation,
+
+$$
+\boxed{
+I_\lambda(L)
+=
+I_\lambda(0)
+\exp\left[-n\sigma_{\mathrm{abs}}(\lambda)L\right]
+}
+\tag{9}
+$$
+
+The optical depth is therefore
+
+$$
+\boxed{
+\tau_\lambda
+=
+nL\sigma_{\mathrm{abs}}(\lambda)
+}
+\tag{10}
+$$
+
+and
+
+$$
+I_\lambda
+=
+I_{\lambda,0}e^{-\tau_\lambda}.
+\tag{11}
+$$
+
+This relation provides the direct connection between the experimental $\mathrm{N_2}$
+cross-section data and the radiation-transfer simulation.
+README.md
+$$
+\frac{dI_\lambda}{dx}
+=
+-n\sigma_{\mathrm{abs}}(\lambda)I_\lambda
+$$
