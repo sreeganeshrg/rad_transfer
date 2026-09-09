@@ -23,6 +23,34 @@ Explanation of work done:
 
 ## Basic Theory of N₂ Absorption Spectrum
 
+## 1.1 Photon Absorption
 
+Absorption of a photon promotes the molecule from an initial electronic state $i$ to an excited state $f$ according to
+
+$$
+\mathrm{N_2(X^1\Sigma_g^+)} + h\nu
+\rightarrow
+\mathrm{N_2^*}.
+$$
+
+The absorbed photon energy is
+
+$$
+E_\gamma = h\nu = \frac{hc}{\lambda}.
+$$
+
+Energy conservation requires
+
+$$
+E_f-E_i=\frac{hc}{\lambda_{\mathrm{abs}}}.
+$$
+
+Therefore, the absorption wavelength is
+
+$$
+\lambda_{\mathrm{abs}}
+=
+\frac{hc}{E_f-E_i}.
+$$
 
 
