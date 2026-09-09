@@ -133,12 +133,8 @@ $$
 ## 1.4 Photoabsorption Cross-Section Spectrum
 
 <p align="center">
-  <img src="n2_photoabsorption_cross_section.png"
-       alt="Photoabsorption cross section of molecular nitrogen"
-       width="850">
+  <img src="Lab%202/Initial%20phase.png" width="850">
 </p>
-
-<p align="center">
   <b>Figure 1:</b> Photoabsorption cross section of molecular nitrogen, N₂, at 298 K over the wavelength range 25–226 nm. The spectrum shows a strong increase in absorption in the vacuum-ultraviolet region, with pronounced absorption features near 80–100 nm.
 </p>
 
