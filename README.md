@@ -22,6 +22,7 @@ Explanation of work done:
 
 
 ## Basic Theory of N₂ Absorption Spectrum
+Molecular nitrogen, **N₂**, is a homonuclear diatomic molecule. When electromagnetic radiation passes through N₂ gas, certain wavelengths are absorbed because the photon energy matches the energy difference between allowed molecular energy states. The resulting variation of absorption with wavelength is called the **N₂ absorption spectrum**.
 
 ## 1.1 Photon Absorption
 
@@ -47,10 +48,5 @@ $$
 
 Therefore, the absorption wavelength is
 
-$$
-\lambda_{\mathrm{abs}}
-=
-\frac{hc}{E_f-E_i}.
-$$
 
 
