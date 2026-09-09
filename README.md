@@ -130,11 +130,19 @@ $$
 $$
 ## Photoabsorption Cross-Section Spectrum
 
+## 1.4 Photoabsorption Cross-Section Spectrum
+
 <p align="center">
-  <img src="figures/n2_cross_section.png" alt="Photoabsorption cross section of molecular nitrogen" width="750">
+  <img src="n2_photoabsorption_cross_section.png"
+       alt="Photoabsorption cross section of molecular nitrogen"
+       width="850">
 </p>
 
 <p align="center">
+  <b>Figure 1:</b> Photoabsorption cross section of molecular nitrogen, N₂, at 298 K over the wavelength range 25–226 nm. The spectrum shows a strong increase in absorption in the vacuum-ultraviolet region, with pronounced absorption features near 80–100 nm.
+</p>
+
+The wavelength dependence of the measured absorption cross section is shown in Fig. 1. The spectrum exhibits a strongly wavelength-dependent absorption probability, with the largest cross sections occurring in the approximately 80–100 nm region. The variation of the absorption cross section, $\sigma_{\mathrm{abs}}$, reflects the energy dependence of the electronic excitation probability of N₂.
   <b>Figure 1:</b> Photoabsorption cross section of molecular nitrogen, N₂, at 298 K over the wavelength range 25–226 nm. The spectrum shows a strong increase in absorption in the vacuum-ultraviolet region, with pronounced absorption features near 80–100 nm.
 </p>
 
