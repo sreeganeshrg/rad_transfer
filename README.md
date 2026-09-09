@@ -130,7 +130,6 @@ $$
 $$
 ## Photoabsorption Cross-Section Spectrum
 
-##  Photoabsorption Cross-Section Spectrum
 
 <p align="center">
   <img src="Lab%202/Initial%20phase.png" width="850">
