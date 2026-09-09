@@ -6,7 +6,7 @@ We are simulating a black body radiation transferring through a uniform medium
 ## Initial Phase
 
 <p align="center">
-  <img src="Initial%20phase.png" width="850">
+  <img src="dataset_profile.jpeg" width="850">
 </p>
 
 
