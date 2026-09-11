@@ -20,6 +20,10 @@ Contributions: (Sarfaraz & Asha: Theory of N2-N2 absorption and experimental dat
 Future work: implementation of these absorption spectra of N2-N2 molecules in the black-body radiation spectrum in the UV region, 
 Explanation of work done:
 
+## week-3 ##
+Gr leader: 
+contribution:
+Future work:
 
 ## Basic Theory of N₂ Absorption Spectrum
 Molecular nitrogen, **N₂**, is a homonuclear diatomic molecule. When electromagnetic radiation passes through N₂ gas, certain wavelengths are absorbed because the photon energy matches the energy difference between allowed molecular energy states. The resulting variation of absorption with wavelength is called the **N₂ absorption spectrum**.
