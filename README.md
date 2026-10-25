@@ -46,7 +46,7 @@ HITRAN data collection and  simulator making for N2 at different temperatures an
 ## week-10 ##
 Report submission on Monday(02-11-2026)
 ## week-11 ##
-presentaiton of 06-11-2026, probably.
+presentation of 06-11-2026, probably.
 
 
 ## Basic Theory of N₂ Absorption Spectrum
