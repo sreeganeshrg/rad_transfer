@@ -35,7 +35,7 @@ Study of the molecular absorption transitions of N2 and CO2.
 ## week-6 ##
 Midterm evaluations: present PPT of whole work
 ## week-7 ##
-text week
+test week
 ## week-8 ##
 N2O-molecule absorption cross-section plots  and data collection at different temperatures from HITRAN
 HITRAN plots for CO2 only to see the incident and  transmission profile of a blackbody in the IR region.
