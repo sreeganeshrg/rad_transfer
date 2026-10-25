@@ -12,7 +12,7 @@ We are simulating a black body radiation transferring through a uniform medium
 
 ## week-1##
 Gr leader: Sreeganesh
-contributions: All 5 discussed various ideas and finally decided on atmospheric radiation transfer. Prepared an abstract for the project. Created Git repo and brances. Sree -  Blackbody's spectrum simulation
+Contributions: All 5 discussed various ideas and finally decided on atmospheric radiation transfer. Prepared an abstract for the project. Created Git repo and brances. Sree -  Blackbody's spectrum simulation
 
 ## week-2##
 Gr leader: Usha
@@ -24,6 +24,30 @@ Explanation of work done:
 Gr leader: 
 contribution:
 Future work:
+## week-4 ##
+Study of the molecular absorption transitions of N2 and CO2.
+Repeated graphs of N2 absorption separating out the main 
+absorption cross-sections at diff. wavelengths, 
+finding different models for radiation transfer in the atmosphere. 
+Study of the molecular absorption transitions of N2 and CO2. 
+## week-5 ##
+
+## week-6 ##
+Midterm evaluations: present PPT of whole work
+## week-7 ##
+text week
+## week-8 ##
+N2O-molecule absorption cross-section plots  and data collection at different temperatures from HITRAN
+HITRAN plots for CO2 only to see the incident and  transmission profile of a blackbody in the IR region.
+Mpimeans, Ozone absorption cross-section data (190-1100 nm range), at different temp also.
+HITRAN data collection and  simulator making for N2 at different temperatures and pressures.
+## week-9 ##
+
+## week-10 ##
+Report submission on Monday(02-11-2026)
+## week-11 ##
+presentaiton of 06-11-2026, probably.
+
 
 ## Basic Theory of N₂ Absorption Spectrum
 Molecular nitrogen, **N₂**, is a homonuclear diatomic molecule. When electromagnetic radiation passes through N₂ gas, certain wavelengths are absorbed because the photon energy matches the energy difference between allowed molecular energy states. The resulting variation of absorption with wavelength is called the **N₂ absorption spectrum**.
