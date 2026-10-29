@@ -8,11 +8,11 @@ Radiative transfer is the physical phenomenon of energy transfer in the form of 
 </p>
 
 
-## week-1##
+## week-1 ##
 Gr leader: Sreeganesh
 Contributions: All 5 discussed various ideas and finally decided on atmospheric radiation transfer. Prepared an abstract for the project. Created Git repo and brances. Sree -  Blackbody's spectrum simulation
 
-## week-2##
+## week-2 ##
 Gr leader: Usha
 Contributions: (Sarfaraz & Asha: Theory of N2-N2 absorption and experimental data collection of all absorptions in 25nm-200nm- UV region. Sree - Blackbody spectrum adjusted for UV-Vis region (0-300nm))
 Future work: implementation of these absorption spectra of N2-N2 molecules in the black-body radiation spectrum in the UV region, 
