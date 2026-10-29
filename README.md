@@ -1,7 +1,5 @@
 # rad_transfer
-
-This repo is for our Advanced Computational Lab 
-We are simulating a black body radiation transferring through a uniform medium 
+Radiative transfer is the physical phenomenon of energy transfer in the form of electromagnetic radiation. The propagation of radiation through a medium is affected by absorption, emission, and scattering processes. In our project, we are trying to computationally work with radiation transfer involving absorption and study the transmission of an incident light through different conditions.
 
 ## Initial Phase
 
@@ -21,26 +19,39 @@ Future work: implementation of these absorption spectra of N2-N2 molecules in th
 Explanation of work done:
 
 ## week-3 ##
-Gr leader: 
+Gr leader: Asha
 contribution:
 Future work:
+
 ## week-4 ##
+Gr leader: 
+Contributions : Sree: Explored models. Tried HitranOnline. Use HAPI to integrate hitran data to python. 
 Study of the molecular absorption transitions of N2 and CO2.
 Repeated graphs of N2 absorption separating out the main 
 absorption cross-sections at diff. wavelengths, 
 finding different models for radiation transfer in the atmosphere. 
 Study of the molecular absorption transitions of N2 and CO2. 
+
+
 ## week-5 ##
+Gr Leader: 
+Contributions : Sree: Simulations of absorption and transmission of CO2 - single layer with fixed (T,P,L); Single layer fixed (T,P) vary L; Multilayer with fixed L vary (T,P) for each layer
+Future work : Prepare ppt for midsem evaluations, better explain the nomenclature and transition levels (Elec,Vib,Rot)
 
 ## week-6 ##
 Midterm evaluations: present PPT of whole work
+Discussion : Asked to do animation, figure out atmosphere based (P,T) conditions and fix abundances accordingly, Try to move to infrared region
+
 ## week-7 ##
 test week
+
 ## week-8 ##
 N2O-molecule absorption cross-section plots  and data collection at different temperatures from HITRAN
 HITRAN plots for CO2 only to see the incident and  transmission profile of a blackbody in the IR region.
 Mpimeans, Ozone absorption cross-section data (190-1100 nm range), at different temp also.
-HITRAN data collection and  simulator making for N2 at different temperatures and pressures.
+Sree : Made simulator for N2 with sliders for (T,P,L) for constant incident radiation. Outputs Absorption coeff, optical depth and Transmission spectrum
+Future work : Plan to move on from N2 to other gasses (CO2,O3,H20,N2O) and work in infrared. Make simulators/animations with sliders.
+
 ## week-9 ##
 
 ## week-10 ##
